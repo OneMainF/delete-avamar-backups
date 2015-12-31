@@ -1,3 +1,4 @@
+# delete-avamar-backups
 Scripts that delete Avamar backups (Use at your own risk)
 The scripts will start on a date specified and then delete _ALL_ daily and weekly backups from that point on.
 
